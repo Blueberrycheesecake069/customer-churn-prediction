@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# IDE and OS specific files
+.idea/
+.vscode/
+*.DS_Store
+
+# Data files (optional, but good practice if they are large)
+# We will track the raw data for reproducibility, but you could ignore the processed one.
+# data/processed/
+
+# Notebook checkpoints
+.ipynb_checkpoints
